@@ -1,0 +1,16 @@
+.screen__default {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.book__element {
+    margin-bottom: 48px;
+    color: #7f7f7f;
+}
